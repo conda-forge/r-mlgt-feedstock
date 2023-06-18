@@ -1,11 +1,11 @@
-About r-mlgt
-============
+About r-mlgt-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlgt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://cran.r-project.org/web/packages/mlgt/index.html
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlgt-feedstock/blob/main/LICENSE.txt)
 
 Summary: Processing and analysis of high throughput (Roche 454) sequences generated from multiple loci and multiple biological samples. Sequences are assigned to their locus and sample of origin, aligned and trimmed. Where possible, genotypes are called and variants mapped to known alleles.
 
